@@ -10,7 +10,7 @@ pandoc text_simple.md --citeproc --pdf-engine=pdflatex -o output.pdf
 
 or use the pandoc render function in VSCode within the command-palette.
 
-## Multiple Files
+## Multiple Files
 
 When working with multiple files use cat to merge.
 
@@ -48,7 +48,7 @@ source ~/.zprofile
 
 ## Plugins in VSCode
 
-![](/images/pandoc-citer-plugin.png)
+![](/images/pandoc-citer-plugin.png)ssh -T git@github.com
 ![](/images/markdown-plugin.png)
 ![](/images/pandoc-plugin.png)
 ![](/images/pdf-plugin.png)
